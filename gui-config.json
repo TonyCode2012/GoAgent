@@ -1,0 +1,13 @@
+{
+    "configs": [
+        {
+            "method": "aes-256-cfb",
+            "password": "ZTk2ZjIxNz",
+            "remarks": "shadow",
+            "server": "104.160.46.124",
+            "server_port": 443
+        }
+    ],
+    "localPort": 1080,
+    "shareOverLan": false
+}
